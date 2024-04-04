@@ -1,0 +1,13 @@
+{
+  "name":"ay01_cli_number_guessing_game",
+  "version": "1.0.0",
+  "description": "This is an Amazing CommandLine guessing name.",
+  "main": "index.js",
+  "type" :"module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayat Talib",
+  "license": "MIT"
+}
